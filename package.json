@@ -29,7 +29,7 @@
     "body-parser": "^1.17.2",
     "config": "^1.26.2",
     "cors": "^2.8.5",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "jsonwebtoken": "^7.4.2",
     "morgan": "^1.8.2",
     "postgraphile": "^4.6.0",
