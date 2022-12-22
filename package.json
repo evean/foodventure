@@ -30,7 +30,7 @@
     "config": "^1.26.2",
     "cors": "^2.8.5",
     "express": "^4.15.3",
-    "jsonwebtoken": "^7.4.2",
+    "jsonwebtoken": "^9.0.0",
     "morgan": "^1.8.2",
     "postgraphile": "^4.6.0",
     "postgraphile-plugin-connection-filter": "^2.0.0"
